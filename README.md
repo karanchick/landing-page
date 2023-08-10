@@ -1,2 +1,2 @@
 # landing-page
-a landing page for an awesome site!!
+My first landing page for an awesome site!! not formatted for mobile yet
