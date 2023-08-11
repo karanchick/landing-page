@@ -20,13 +20,16 @@ ul {
 button {
     display: flex;
     flex-shrink: 0;
-    width: 80px;
+    width: 100px;
     text-align: center;
     border-radius: 25px;
     border-color: palevioletred;
     background-color: palevioletred;
     color: rgb(1, 1, 68);
     font-weight: bold;
+    padding: auto;
+    font-size: 20px;
+   
     
 }
 
@@ -36,6 +39,7 @@ img {
 
 h1 {
     margin-bottom: 3px;
+    font-weight: bolder;
 
 }
 
@@ -55,7 +59,7 @@ h1 {
    
 }
 
-.small-text {
+.med-text {
     margin-bottom: 15px;
     color: rgb(68, 68, 133);
     margin-right: 5px;
@@ -84,7 +88,27 @@ h1 {
     max-width: 700px;
 }
 
+/* Section One */
+h2 {
+    text-align: center;
+    color: palevioletred;
+}
 
+.container-o {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: baseline;
+    flex-wrap: wrap;
 
+}
+
+.sec-one img {
+    width: 120px;
+}
+
+.small-text {
+    color: palevioletred;
+}
 
 
