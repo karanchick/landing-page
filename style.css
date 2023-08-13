@@ -181,3 +181,12 @@ button.cta {
     flex-direction: column;
     margin-right: 30px;
 }
+
+/* Footer */
+
+.footer {
+    background-color: pink;
+    padding: 30px;
+    text-align: center;
+    color: rgb(1, 1, 68) ;
+}
